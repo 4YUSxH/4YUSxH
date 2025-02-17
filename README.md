@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-<b> My name is Ayush and I'm a Front-End Developer from India</b></p>
+<p align="left">-<b> My name is Ayush and I'm a Front-End Developer from India.</b></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning React.js<br>🎲 Fun fact: I edit videos</p>
+<p align="left">✨ Creating bugs since 2004.<br>📚 I'm currently learning React.js.<br>🎲 Fun fact: I edit videos.</p>
 
 ###
 
